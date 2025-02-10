@@ -5,19 +5,17 @@
  <img src="https://komarev.com/ghpvc/?username=reham012&label=Profile%20views&color=0e75b6&style=flat" alt="reham012" alt="reham012" /> 
  <img src="https://img.shields.io/github/followers/reham012?label=Followers" alt="reham012" /> </p> <br></h3>
 <br>
-<div>
 
         - 🌱 I’m currently studing `Nextjs` <br>
         - 📫 How to reach me <br> **rehammostafa078@gmail.com**<br> 
         - 🤔 I’m currently open for: new `job opportunity`<br> 
         - 🤓 :nerd_face: Always `learning new things`<br> 
-        -🐼 Doing my best<br> 
+        - 🐼 Doing my best<br> 
       
 <div>
         <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  width = 200px/>
     </div>
 
-</div>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
