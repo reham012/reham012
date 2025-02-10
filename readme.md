@@ -5,8 +5,7 @@ d<h1 align="center">Hi 🙈, I'm Reham Mostafa</h1>
  <img src="https://komarev.com/ghpvc/?username=reham012&label=Profile%20views&color=0e75b6&style=flat" alt="reham012" alt="reham012" /> 
  <img src="https://img.shields.io/github/followers/reham012?label=Followers" alt="reham012" /> </p> <br></h3>
 <br>
-<div style=" display: flex;
-    justify-content: space-between;">
+<div>
 
 <div>
         - 🌱 I’m currently studing `Nextjs` <br>
@@ -16,7 +15,7 @@ d<h1 align="center">Hi 🙈, I'm Reham Mostafa</h1>
         -🐼 Doing my best<br> 
     </div>   
 <div>
-        <img height="200" src="https://i.imgflip.com/65efzo.gif"  width = 200px/>
+        <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  width = 200px/>
     </div>
 
 </div>
