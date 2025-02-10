@@ -11,7 +11,6 @@
         - 🤔 I’m currently open for: new `job opportunity`<br> 
         - 🤓 :nerd_face: Always `learning new things`<br> 
         - 🐼 Doing my best<br> 
-      engaged with Mohab Mohammed
 <div>
         <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  width = 200px/>
     </div>
